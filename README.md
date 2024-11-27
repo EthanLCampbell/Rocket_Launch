@@ -1,3 +1,2 @@
-LITERALLY ADD EVERY SINGLE FILE IN THIS REPO.
-NOTHING WILL RUN OTHERWISE.
-WE PULL FROM EVERY SINGLE FILE INLCUDED, EVEN THE MATLAB FIGURE (NOT MY CHOICE).
+This functionality only works with *every single file* added, including the matlab figures.
+(we take data from the graphs; I know, it's really stupid).
